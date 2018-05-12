@@ -1,0 +1,39 @@
+_repo: Froebel-s-Gifts_31097
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Smith, Nora Archibald
+    birthdate: 1859
+    deathdate: 1934
+    gutenberg_agent_id: '8693'
+    url: http://www.gutenberg.org/2009/agents/8693
+    wikipedia: http://en.wikipedia.org/wiki/Nora_Archibald_Smith
+  - agent_name: Wiggin, Kate Douglas Smith
+    aliases:
+    - Riggs, Kate Douglas Smith Wiggin
+    - Smith, Kate Douglas
+    - Riggs, George Christopher, Mrs.
+    - Wiggin, Samuel Bradley, Mrs.
+    birthdate: 1856
+    deathdate: 1923
+    gutenberg_agent_id: '266'
+    url: http://www.gutenberg.org/2009/agents/266
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Douglas_Wiggin
+description: ''
+gutenberg_issued: '2010-01-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31097'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'LB'
+- !lcsh 'Kindergarten -- Methods and manuals'
+- !lcsh 'Kindergarten'
+title: Froebel's Gifts
+url: http://www.gutenberg.org/ebooks/31097
